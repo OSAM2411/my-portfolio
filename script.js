@@ -80,3 +80,5 @@ function asideSectionTOgglerBtn() {
     allSection[i].classList.toggle("open");
   }
 }
+
+console.log("test");
